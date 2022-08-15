@@ -17,5 +17,6 @@ Obs: Informações obtidas do site [Scotconsultoria](https://www.scotconsultoria
 1. Obter dados de outras commodities rurais.
 2. Criar uma interface gráfica para que o usuário possa escolher quais commodities deseja obter.
 3. Unificar todas as planilhas geradas em uma única planilha.
+4. Gerar gráficos com base nas informações obtidas.
 
 *Em desenvolvimento...*
