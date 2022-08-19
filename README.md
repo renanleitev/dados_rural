@@ -10,7 +10,8 @@ Obs: Informações obtidas do site [Scotconsultoria](https://www.scotconsultoria
 ## Requisitos
 
 1. Ter o [Python](https://www.python.org/) instalado.
-2. Para executar a automação, baixe o arquivo "preco_mercadoria.py" e execute o script.
+2. Ter as seguintes bibliotecas instaladas: Openpyxl, Selenium, Pyperclip, Pyautogui.
+3. Para executar a automação, baixe o arquivo "preco_mercadoria.py" e execute o script.
 
 ## Próximas atualizações
 
